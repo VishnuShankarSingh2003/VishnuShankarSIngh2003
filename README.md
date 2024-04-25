@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=red&size=34&pause=1000&color=9932CC&width=435&lines=Hello+folks+!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=FF1493&width=435&lines=I+am+Aakrati+Jain+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=FF1493&width=435&lines=My+name+is+Vishnu+Shankar+Singh👋)](https://git.io/typing-svg)
 <h3 align="center">A Full Stack Web Developer who is eager to learn and work on Web technologies</h3>
 
 <img align = "right" alt = "coding" width ="400" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
@@ -9,25 +9,23 @@
 
 - 🔭 I’m currently working on **Personal Website**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://aakrati-123.github.io/ajportfolio/](https://aakrati-123.github.io/ajportfolio/)
+- 💬 Ask me about **React,Frontend,DSA,SQL,Backend**
 
-- 💬 Ask me about **React,Frontend,Devops,SQL,Backend**
-
-- 📫 How to reach me **aakratijain622@gmail.com**
+- 📫 How to reach me **vssingh7677@gmail.com**
 
 - I’m looking to collaborate on **OpenSource /Community Project/Web Project** 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/174SgdACOStXjG7Yvti9CJUoOBM1efE8w/view?usp=sharing](https://drive.google.com/file/d/174SgdACOStXjG7Yvti9CJUoOBM1efE8w/view?usp=sharing)
+- 📄 Know about my experiences [ https://www.linkedin.com/in/2003vishnu/]( https://www.linkedin.com/in/2003vishnu/)
 
 - ⚡ Fun fact **Eccentric for web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aakrati-jain-69158721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakrati jain" height="30" width="40" /></a>
+<a href=" https://www.linkedin.com/in/2003vishnu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakrati jain" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aakrati jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aakrati jain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aakrati_jain123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakrati_jain123" height="30" width="40" /></a>
+<a href="https://leetcode.com/VISHNU_SHANKAR_SINGH/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakrati_jain123" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vasujain4245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vasujain4245" height="30" width="40" /></a>
 </p>
 
