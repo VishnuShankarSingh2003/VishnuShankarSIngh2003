@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=" https://www.linkedin.com/in/2003vishnu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakrati jain" height="30" width="40" /></a>
+<a href="[ https://www.linkedin.com/in/2003vishnu/](https://www.linkedin.com/in/2003vishnu/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishnu Shankar Singh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/vssingh7677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aakrati jain" height="30" width="40" /></a>
-<a href="https://leetcode.com/VISHNU_SHANKAR_SINGH/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakrati_jain123" height="30" width="40" /></a>
+<a href="https://leetcode.com/VISHNU_SHANKAR_SINGH/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishnu Shankar Singh" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/vssingh26022003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vasujain4245" height="30" width="40" /></a>
 </p>
 
