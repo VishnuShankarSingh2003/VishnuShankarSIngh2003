@@ -5,7 +5,7 @@
 
 <img align = "right" alt = "coding" width ="400" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakrati-123&label=Profile%20views&color=0e75b6&style=flat" alt="aakrati-123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakrati-123&label=Profile%20views&color=0e75b6&style=flat" alt="Vishnu Shankar Singh" /> </p>
 
 - 🔭 I’m currently working on **Personal Website**
 
